@@ -5,7 +5,7 @@ pipeline {
         steps {
           echo "build step"
             sleep 4
-      }
+        }
       
     }
      stages {
@@ -24,5 +24,6 @@ pipeline {
             
         }
           
-    }
-    }
+      }
+   }
+}
