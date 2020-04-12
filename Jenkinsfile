@@ -23,6 +23,5 @@ pipeline {
             sleep 10
             
         }
-          
-      }
-   }
+    }
+ }       
