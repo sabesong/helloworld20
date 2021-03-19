@@ -11,7 +11,7 @@
   </parent>
 
   <artifactId>contact</artifactId>
-  <packaging>contact</packaging>
+  <packaging>war</packaging>
   <name>contact</name>
   <description>contact.</description>
 
